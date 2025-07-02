@@ -1,0 +1,23 @@
+{
+  "name": "game-utils",
+  "version": "1.0.0",
+  "description": "Kumpulan fungsi kuis dan game sederhana seperti asah otak, tebak-tebakan, caklontong, dan lainnya.",
+  "main": "index.js",
+  "keywords": [
+    "game",
+    "quiz",
+    "tebakan",
+    "asah otak",
+    "caklontong",
+    "tebak gambar"
+  ],
+  "author": "Kuro Zann",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurozann/game-utils"
+  },
+  "dependencies": {
+    "@itsukichan/functions": "^1.0.0"
+  }
+}
